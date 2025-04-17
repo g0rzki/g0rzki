@@ -18,6 +18,11 @@ I enjoy working with web technologies and constantly expanding my skills through
 - Learn more about backend development and system design
 - Land a solid internship or junior role in web/backend development
 
+### 📌 Interests
+- 🧠 Interested in enterprise-grade systems and business software like SAP.  
+- 📊 I’m open to exploring ERP development, data processing, and large-scale system logic.  
+- 🚀 Looking forward to working in environments where software meets real business needs.
+
 ### 📫 Contact
 - [LinkedIn](https://linkedin.com/in/pgorzkiewicz)  
 - [GitHub Projects](https://github.com/g0rzki?tab=repositories)  
