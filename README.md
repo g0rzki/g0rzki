@@ -4,7 +4,7 @@ I'm Piotrek, a Computer Science student focused on building practical and functi
 I enjoy working with web technologies and constantly expanding my skills through hands-on projects.
 
 ### 🔧 Tech Stack
-- **Languages**: Java, PHP, JavaScript, SQL
+- **Languages**: Java, Python, PHP, JavaScript, SQL
 - **Frameworks**: Flask, Laravel, Bootstrap
 - **Tools**: Git, MySQL, VS Code
 
