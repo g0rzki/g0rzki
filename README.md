@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**g0rzki/g0rzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Piotrek, a Computer Science student focused on building practical and functional applications.  
+I enjoy working with web technologies and constantly expanding my skills through hands-on projects.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages**: Java, PHP, JavaScript, SQL
+- **Frameworks**: Flask, Laravel, Bootstrap
+- **Tools**: Git, MySQL, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- 🐘 Zoo Visit Booking System – Laravel app with PostgreSQL, handling group visit reservations and ticket sales 
+- 🐍 Flask-based task management app (with login, database, and availability planning)
+- 🧠 KNN algorithm with dynamic neighbor selection (ML-related)
+
+### 🎯 Goals
+- Improve my portfolio with meaningful, well-documented projects
+- Learn more about backend development and system design
+- Land a solid internship or junior role in web/backend development
+
+### 📫 Contact
+- [LinkedIn](https://linkedin.com/in/pgorzkiewicz)  
+- [GitHub Projects](https://github.com/g0rzki?tab=repositories)  
+- Email: gorzkiewicz2003@gmail.com
+
+---
+
+_Thanks for visiting!_
