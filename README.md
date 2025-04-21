@@ -6,12 +6,13 @@ I enjoy working with web technologies and constantly expanding my skills through
 ### 🔧 Tech Stack
 - **Languages**: Java, Python, PHP, JavaScript, SQL
 - **Frameworks**: Flask, Laravel, Bootstrap
-- **Tools**: Git, MySQL, VS Code
+- **Tools**: Git, PostgreSQL, VS Code
 
 ### 🚀 Current Projects
 - 🐘 Zoo Visit Booking System – Laravel app with PostgreSQL, handling group visit reservations and ticket sales 
 - 🐍 Flask-based task management app (with login, database, and availability planning)
 - 🧠 KNN algorithm with dynamic neighbor selection (ML-related)
+- 🎫 Museum Visit Reservation – MS Forms app with CRUD functionality for reservation and ticket management
 
 ### 🎯 Goals
 - Improve my portfolio with meaningful, well-documented projects
@@ -26,7 +27,7 @@ I enjoy working with web technologies and constantly expanding my skills through
 ### 📫 Contact
 - [LinkedIn](https://linkedin.com/in/pgorzkiewicz)  
 - [GitHub Projects](https://github.com/g0rzki?tab=repositories)  
-- Email: gorzkiewicz2003@gmail.com
+- [gorzkiewicz2003@gmail.com](mailto:gorzkiewicz2003@gmail.com)
 
 ---
 
