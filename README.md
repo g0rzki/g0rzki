@@ -11,7 +11,6 @@ I enjoy working with web technologies and constantly expanding my skills through
 ### 🚀 Current Projects
 - 🐘 Zoo Visit Booking System – Laravel app with PostgreSQL, handling group visit reservations and ticket sales 
 - 🐍 Flask-based task management app (with login, database, and availability planning)
-- 🧠 KNN algorithm with dynamic neighbor selection (ML-related)
 - 🎫 Museum Visit Reservation – MS Forms app with CRUD functionality for reservation and ticket management
 
 ### 🎯 Goals
