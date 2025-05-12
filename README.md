@@ -9,7 +9,7 @@ I enjoy working with web technologies and constantly expanding my skills through
 - **Tools**: Git, PostgreSQL, VS Code
 
 ### 🚀 Current Projects
-- 🐘 Zoo Visit Booking System (Laravel) – Web app for managing group reservations and ticket sales, with an admin panel for tracking statistics
+- 🐘 Zoo Visit Booking System (Laravel) – Web app for managing reservations and ticket sales, with a panel for tracking statistics
 - 🐍 Task Manager (Flask) - Web app for adding and managing tasks with filtering and deadline highlighting
 - 🎫 Museum Visit Reservation (C# WinForms) – Desktop app for managing visit reservations and ticket sales
 
