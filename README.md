@@ -4,24 +4,24 @@ I'm Piotrek, a Computer Science student focused on building practical and functi
 I enjoy working with web technologies and constantly expanding my skills through hands-on projects.
 
 ### 🔧 Tech Stack
-- **Languages**: Java, Python, PHP, JavaScript, SQL
+- **Languages**:  Python, PHP, JavaScript, Java, SQL
 - **Frameworks**: Flask, Laravel, Bootstrap
 - **Tools**: Git, PostgreSQL, VS Code
 
 ### 🚀 Current Projects
-- 🐘 Zoo Visit Booking System – Laravel app with PostgreSQL, handling group visit reservations and ticket sales 
-- 🐍 Flask-based task management app (with login, database, and availability planning)
-- 🎫 Museum Visit Reservation – MS Forms app with CRUD functionality for reservation and ticket management
+- 🐘 Zoo Visit Booking System (Laravel) – Web app for managing group reservations and ticket sales, with an admin panel for tracking statistics
+- 🐍 Task Manager (Flask) - Web app for adding and managing tasks with filtering and deadline highlighting
+- 🎫 Museum Visit Reservation (C# WinForms) – Desktop app for managing visit reservations and ticket sales
 
 ### 🎯 Goals
-- Improve my portfolio with meaningful, well-documented projects
+- Build a strong portfolio with well-documented, real-world projects
 - Learn more about backend development and system design
-- Land a solid internship or junior role in web/backend development
+- Land a solid internship or junior web/backend development role
 
 ### 📌 Interests
-- 🧠 Interested in enterprise-grade systems and business software like SAP.  
-- 📊 I’m open to exploring ERP development, data processing, and large-scale system logic.  
-- 🚀 Looking forward to working in environments where software meets real business needs.
+- 🧠 Business software and enterprise-grade systems like SAP  
+- 📊 ERP development, data processing and large-scale logic  
+- 🚀 Building software that solves real business problems
 
 ### 📫 Contact
 - [LinkedIn](https://linkedin.com/in/pgorzkiewicz)  
