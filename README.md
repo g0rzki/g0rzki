@@ -9,8 +9,7 @@ I enjoy working with web technologies and constantly expanding my skills through
 - **Tools**: Git, PostgreSQL, VS Code
 
 ### 🚀 Current Projects
-- 🐘 Zoo Visit Booking System (Laravel) – Web app for managing reservations and ticket sales, with a panel for tracking statistics
-- 🎫 Museum Visit Reservation (C# WinForms) – Desktop app for managing visit reservations and ticket sales
+- 🛒 Shopping List (Android Studio, Kotlin) – Mobile app for creating and managing shopping lists, featuring voice input for adding items and intuitive, modern UI
 
 ### 🎯 Goals
 - Build a strong portfolio with well-documented, real-world projects
