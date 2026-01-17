@@ -9,7 +9,17 @@ I enjoy working with web technologies and constantly expanding my skills through
 - **Tools**: Git, PostgreSQL, VS Code
 
 ### 🚀 Current Projects
-- 🛒 Shopping List (Android Studio, Kotlin) – Mobile app for creating and managing shopping lists, featuring voice input for adding items and intuitive, modern UI
+- 📊 **Analytical Module for Business Intelligence Platform**  
+  Web-based analytical module for a car rental company, focused on data analysis and reporting.  
+  Built with **Flask**, **PostgreSQL**, and **PyScript** for in-browser data processing and visualization.
+
+- 🎭 **Reservation Management System for a Cultural Center**  
+  Full-stack web application for managing event reservations and schedules in a cultural institution.  
+  Backend in **Laravel**, frontend in **React**, with **PostgreSQL** as the database.
+
+- 🛒 **Shopping List (Mobile App)**  
+  Android application for creating and managing shopping lists with voice input support.  
+  Built using **Kotlin** and **Android Studio**.
 
 ### 🎯 Goals
 - Build a strong portfolio with well-documented, real-world projects
