@@ -1,41 +1,60 @@
-# Hi there 👋
+# Hi there 👋 I'm Piotrek
 
-I'm Piotrek, a Computer Science student focused on building practical and functional applications.  
-I enjoy working with web technologies and constantly expanding my skills through hands-on projects.
-
-### 🔧 Tech Stack
-- **Languages**:  Python, PHP, JavaScript, Java, SQL
-- **Frameworks**: Flask, Laravel, Bootstrap
-- **Tools**: Git, PostgreSQL, VS Code
-
-### 🚀 Current Projects
-- 📊 **Analytical Module for Business Intelligence Platform**  
-  Web-based analytical module for a car rental company, focused on data analysis and reporting.  
-  Built with **Flask**, **PostgreSQL**, and **PyScript** for in-browser data processing and visualization.
-
-- 🎭 **Reservation Management System for a Cultural Center**  
-  Full-stack web application for managing event reservations and schedules in a cultural institution.  
-  Backend in **Laravel**, frontend in **React**, with **PostgreSQL** as the database.
-
-- 🛒 **Shopping List (Mobile App)**  
-  Android application for creating and managing shopping lists with voice input support.  
-  Built using **Kotlin** and **Android Studio**.
-
-### 🎯 Goals
-- Build a strong portfolio with well-documented, real-world projects
-- Learn more about backend development and system design
-- Land a solid internship or junior web/backend development role
-
-### 📌 Interests
-- 🧠 Business software and enterprise-grade systems like SAP  
-- 📊 ERP development, data processing and large-scale logic  
-- 🚀 Building software that solves real business problems
-
-### 📫 Contact
-- [LinkedIn](https://linkedin.com/in/pgorzkiewicz)  
-- [GitHub Projects](https://github.com/g0rzki?tab=repositories)  
-- [gorzkiewicz2003@gmail.com](mailto:gorzkiewicz2003@gmail.com)
+Computer Science student focused on building practical, real-world applications.  
+I enjoy backend development and constantly expanding my skills through hands-on projects.
 
 ---
 
-_Thanks for visiting!_
+### 🔧 Tech Stack
+
+**Languages**: Java, C#, Python, PHP, JavaScript, Kotlin, SQL  
+**Frameworks**: Spring Boot, ASP.NET Core, Flask, FastAPI, Laravel  
+**Mobile**: Android (Kotlin)  
+**Tools**: Git, Docker, PostgreSQL, VS Code, Android Studio
+
+---
+
+### 🚀 Current Projects
+
+- 📇 **FlashLearn — Flashcard Learning App**  
+  Mobile + backend application for spaced-repetition learning with a flashcard marketplace.  
+  Android frontend (Kotlin) paired with a Spring Boot REST API, SM-2 algorithm, and PostgreSQL database.  
+  `Java` `Spring Boot` `Kotlin` `Android` `PostgreSQL` `Docker`
+
+- 🏦 **Retail Bank Simulation — US Market**  
+  Simulation of a US retail banking system covering account management, transactions, and financial operations.  
+  `C#` `ASP.NET Core` `PostgreSQL`
+
+- 📡 **Uptime Monitor**  
+  Service availability monitoring tool with alerting and status tracking. Lightweight async REST API backend.  
+  `Python` `FastAPI`
+
+- 🧠 **Diagnostic Decision Support System** *(Engineering Thesis)*  
+  Rule-based expert system supporting clinical diagnostics, powered by patient data.  
+  Full-stack web application built as an engineering thesis project.  
+  `Python` `Flask` `Expert Systems` `PostgreSQL`
+
+---
+
+### 🎯 Goals
+
+- Build a strong portfolio with well-documented, real-world projects
+- Deepen skills in backend architecture and system design
+- Land a junior backend or web development internship
+- Explore ERP systems, business software, and enterprise-grade solutions
+
+---
+
+### 📌 Interests
+
+- 🧠 Business software and enterprise systems (SAP, ERP)
+- 📊 Data processing and large-scale backend logic
+- 🚀 Software that solves real business problems
+
+---
+
+### 📫 Contact
+
+- [LinkedIn](https://linkedin.com/in/pgorzkiewicz)
+- [GitHub](https://github.com/g0rzki?tab=repositories)
+- [gorzkiewicz2003@gmail.com](mailto:gorzkiewicz2003@gmail.com)
