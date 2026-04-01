@@ -1,60 +1,43 @@
-# Hi there 👋 I'm Piotrek
+# Hi, I'm Piotr 👋
 
-Computer Science student focused on building practical, real-world applications.  
-I enjoy backend development and constantly expanding my skills through hands-on projects.
+CS student building practical backend and web applications.  
+Focused on Java and Python backends, currently open to internships in 2026.
+
+🌐 [gorzkiewicz.dev](https://gorzkiewicz.dev)
 
 ---
 
 ### 🔧 Tech Stack
 
-**Languages**: Java, C#, Python, PHP, JavaScript, Kotlin, SQL  
-**Frameworks**: Spring Boot, ASP.NET Core, Flask, FastAPI, Laravel  
-**Mobile**: Android (Kotlin)  
-**Tools**: Git, Docker, PostgreSQL, VS Code, Android Studio
+**Backend**: Java · Spring Boot · Python · FastAPI · Flask · C# · ASP.NET Core  
+**Frontend**: JavaScript · React  
+**Mobile**: Kotlin · Android  
+**Tools**: PostgreSQL · Docker · Git
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Projects
 
 - 📇 **FlashLearn — Flashcard Learning App**  
-  Mobile + backend application for spaced-repetition learning with a flashcard marketplace.  
-  Android frontend (Kotlin) paired with a Spring Boot REST API, SM-2 algorithm, and PostgreSQL database.  
+  Android + Spring Boot app with spaced-repetition (SM-2), sync, and JWT auth.  
   `Java` `Spring Boot` `Kotlin` `Android` `PostgreSQL` `Docker`
 
-- 🏦 **Retail Bank Simulation — US Market**  
-  Simulation of a US retail banking system covering account management, transactions, and financial operations.  
-  `C#` `ASP.NET Core` `PostgreSQL`
+- 🏦 **US Bank System — Retail Banking Simulation**  
+  Banking simulation with account management, transactions, and ACH/SWIFT integrations.  
+  `C#` `ASP.NET Core` `React` `PostgreSQL` `Docker`
 
 - 📡 **Uptime Monitor**  
-  Service availability monitoring tool with alerting and status tracking. Lightweight async REST API backend.  
-  `Python` `FastAPI`
+  Service availability tracker with email alerting and a status dashboard.  
+  `Python` `FastAPI` `React` `PostgreSQL`
 
 - 🧠 **Diagnostic Decision Support System** *(Engineering Thesis)*  
-  Rule-based expert system supporting clinical diagnostics, powered by patient data.  
-  Full-stack web application built as an engineering thesis project.  
-  `Python` `Flask` `Expert Systems` `PostgreSQL`
-
----
-
-### 🎯 Goals
-
-- Build a strong portfolio with well-documented, real-world projects
-- Deepen skills in backend architecture and system design
-- Land a junior backend or web development internship
-- Explore ERP systems, business software, and enterprise-grade solutions
-
----
-
-### 📌 Interests
-
-- 🧠 Business software and enterprise systems (SAP, ERP)
-- 📊 Data processing and large-scale backend logic
-- 🚀 Software that solves real business problems
+  Rule-based expert system for clinical diagnostics with ML support.  
+  `Python` `Flask` `Scikit-learn` `PostgreSQL`
 
 ---
 
 ### 📫 Contact
 
+- [gorzkiewicz.dev](https://gorzkiewicz.dev)
 - [LinkedIn](https://linkedin.com/in/pgorzkiewicz)
-- [GitHub](https://github.com/g0rzki?tab=repositories)
 - [gorzkiewicz2003@gmail.com](mailto:gorzkiewicz2003@gmail.com)
