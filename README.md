@@ -18,19 +18,19 @@ Focused on Java and Python backends, currently open to internships in 2026.
 
 ### 🚀 Projects
 
-- 📇 **FlashLearn — Flashcard Learning App**  
+- 📇 **[FlashLearn](https://github.com/jakub7038/flash-learn) — Flashcard Learning App**  
   Android + Spring Boot app with spaced-repetition (SM-2), sync, and JWT auth.  
   `Java` `Spring Boot` `Kotlin` `Android` `PostgreSQL` `Docker`
 
-- 🏦 **US Bank System — Retail Banking Simulation**  
+- 🏦 **[US Bank System](https://github.com/g0rzki/us-bank-system) — Retail Banking Simulation**  
   Banking simulation with account management, transactions, and ACH/SWIFT integrations.  
   `C#` `ASP.NET Core` `React` `PostgreSQL` `Docker`
 
-- 📡 **Uptime Monitor**  
+- 📡 **[Uptime Monitor](https://github.com/g0rzki/uptime-monitor) - Service Availability Tracking**  
   Service availability tracker with email alerting and a status dashboard.  
   `Python` `FastAPI` `React` `PostgreSQL`
 
-- 🧠 **Diagnostic Decision Support System** *(Engineering Thesis)*  
+- 🧠 **[Diagnostic Decision Support System](https://github.com/g0rzki/diagnostic-dss)** *(Engineering Thesis)*  
   Rule-based expert system for clinical diagnostics with ML support.  
   `Python` `Flask` `Scikit-learn` `PostgreSQL`
 
