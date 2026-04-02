@@ -26,7 +26,7 @@ Focused on Java and Python backends, currently open to internships in 2026.
   Banking simulation with account management, transactions, and ACH/SWIFT integrations.  
   `C#` `ASP.NET Core` `React` `PostgreSQL` `Docker`
 
-- 📡 **[Uptime Monitor](https://github.com/g0rzki/uptime-monitor) - Service Availability Tracking**  
+- 📡 **[Uptime Monitor](https://github.com/g0rzki/uptime-monitor) — Service Availability Tracking**  
   Service availability tracker with email alerting and a status dashboard.  
   `Python` `FastAPI` `React` `PostgreSQL`
 
