@@ -1,7 +1,7 @@
 # Hi, I'm Piotr 👋
 
 CS student building practical backend and web applications.  
-Focused on Java and Python backends, currently open to internships in 2026.
+Focused on Python and Java backends, currently open to internships in 2026.
 
 🌐 [gorzkiewicz.dev](https://gorzkiewicz.dev)
 
@@ -32,7 +32,7 @@ Focused on Java and Python backends, currently open to internships in 2026.
 
 - 📇 **[FlashLearn](https://github.com/jakub7038/flash-learn) — Flashcard Learning App**  
   Android + Spring Boot app with spaced-repetition (SM-2), sync, and JWT auth.  
-  `Java` `Spring Boot` `Kotlin` `Android` `PostgreSQL` `Docker`
+  `Java` `Spring Boot` `Kotlin` `PostgreSQL` `Docker`
 
 - 🧠 **[Diagnostic Decision Support System](https://github.com/g0rzki/diagnostic-dss)** *(Engineering Thesis)*  
   Rule-based expert system for clinical diagnostics with ML support.  
