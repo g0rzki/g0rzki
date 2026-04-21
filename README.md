@@ -30,7 +30,7 @@ Focused on Python and Java backends, currently open to internships in 2026.
   Banking simulation with account management, transactions, and ACH/SWIFT integrations.  
   `C#` `ASP.NET Core` `React` `PostgreSQL` `Docker`
 
-- 📇 **[FlashLearn](https://github.com/jakub7038/flash-learn) — Flashcard Learning App**  
+- 📇 **[FlashLearn](https://github.com/g0rzki/flash-learn) — Flashcard Learning App**  
   Android + Spring Boot app with spaced-repetition (SM-2), sync, and JWT auth.  
   `Java` `Spring Boot` `Kotlin` `PostgreSQL` `Docker`
 
